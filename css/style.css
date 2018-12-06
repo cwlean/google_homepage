@@ -88,6 +88,11 @@ nav ul li a:hover {
   background-color: rgb(127, 45, 182);
 }
 
+.account-icon a:hover {
+  color: white;
+  text-decoration: none;
+}
+
 .account-icon a::after {
   content: "B";
   position: relative;
