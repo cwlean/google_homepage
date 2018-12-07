@@ -104,6 +104,7 @@ nav ul li a:hover {
 
 main {
   clear: both;
+  min-width: 1000px;
   text-align: center;
 }
 
