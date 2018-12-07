@@ -139,6 +139,10 @@ main {
   color: rgb(0, 0, 0, 0.87);
 }
 
+.search-bar input:focus {
+  outline: none;
+}
+
 .search-bar span {
   display: inline-block;
   height: 24px;
